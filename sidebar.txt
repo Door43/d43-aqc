@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aqc:home|Door43 (aqc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aqc|d43-aqc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aqc/archive/master.zip|d43-aqc.zip]]
+
+**Recent Changes**
+{{changes>ns = aqc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aqc|Ethnologue data]]
+
